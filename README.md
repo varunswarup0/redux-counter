@@ -16,4 +16,4 @@
 
 
 
-![alt text](https://github.com/varunswarup0/bug-cop/blob/master/bug-cop.jpg)
+![alt text](https://github.com/varunswarup0/redux-counter/blob/master/reduxCounter.png)
